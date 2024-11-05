@@ -1,0 +1,2 @@
+# GC
+Gerência de Configuração
